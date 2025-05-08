@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "V-NECH BASIC SHIRT",
+    "sales_units": 100,
+    "stock": {
+      "S": 4,
+      "M": 9,
+      "L": 0
+    }
+  },
+  {
+    "id": 2,
+    "name": "CONTRASTING FABRIC T-SHIRT",
+    "sales_units": 50,
+    "stock": {
+      "S": 35,
+      "M": 9,
+      "L": 9
+    }
+  }
+]
